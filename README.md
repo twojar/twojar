@@ -6,7 +6,6 @@
   
 ## 🌱 Currently Learning
 - Python Scripting
-- Bash Scripting
 - Java development
 - Systems programming in C
 - Reverse engineering & Malware analysis
