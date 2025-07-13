@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Alan
 
 ## About Me
-- 👀 I’m interested in **Cybersecurity** and **Software Development**
+- 👀 I’m interested in **Cybersecurity** and **Machine Learning**
 - 😄 Pronouns: he/him
   
 ## 🌱 Currently Learning
