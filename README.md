@@ -1,12 +1,11 @@
 # 👋 Hi, I’m Alan
 
 ## About Me
-- 👀 I’m interested in **Cybersecurity** and **Machine Learning**
-- 😄 Pronouns: he/him
+- I’m interested in **Cybersecurity** and **Low-Level Programming**
+- Pronouns: he/him
   
 ## 🌱 Currently Learning
 - Python Scripting
-- Java development
 - Systems programming in C
 - Reverse engineering & Malware analysis
 
